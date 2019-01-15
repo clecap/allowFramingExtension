@@ -1,0 +1,14 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "description": "Drops X-Frame-Options HTTP response headers, allowing all pages to be iframed.",
+   "browser_action": {
+     "default_title": "SliemaStart"
+   },
+   "manifest_version": 2,
+   "name": "Allow framing",
+   "permissions": [ "webRequest", "webRequestBlocking", "\u003Call_urls>", "activeTab", "tabs" ],
+   "version": "1.0",
+   "externally_connectable": {"matches": []}
+}
