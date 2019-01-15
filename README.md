@@ -18,8 +18,10 @@ The extension has no chrome webstore URL and thus must be installed manually.
 * Enable Developer Mode by clicking the toggle switch next to Developer mode.
 * Click the LOAD UNPACKED button and select the directory where this extension is stored.
 
-
 # Usage
+
+Pretty much self-explanatory. Click on the icon (Letter "S" on grey background with blue badge which should read "OK" or red badge which should "WRN") and follow the instructions
+of the message windows.
 
 # FAQs
 * Isn't this dangerous?
